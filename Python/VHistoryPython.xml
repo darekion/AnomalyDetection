@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <serviceUrl>http://52.28.69.54:8081</serviceUrl>
+  <checkWord>tjekOrd</checkWord>
+  <customerName>Kruger demo</customerName>
+</Config>
