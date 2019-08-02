@@ -4,5 +4,5 @@ In this repository you will find Python modules, and some C# code from webservic
 
 All commentedout code in the python modules is old code, which is no longer used, but is kept in case we need to revisit the first tests of the thesis.
 
-The C# classes are part of a larger system which is not included here, only the code developed specifically for this thesis, the system as a whole is owned by Krüger A/S, and the source code for this is not public. 
+The C# classes are part of a larger system which is not included here, only the code developed specifically for this thesis, which also means the code are snippets of larget classes, code not written for this have been removed from the respective files. 
 
